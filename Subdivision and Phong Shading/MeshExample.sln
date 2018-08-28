@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeshExample", "MeshExample\MeshExample.vcxproj", "{53018E2A-09C2-4E5E-A4ED-96399BE391C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{229AFED9-7FC7-4554-A501-C33A226A8C49}"
+	ProjectSection(SolutionItems) = preProject
+		MeshExample\ShaderLoader.cpp = MeshExample\ShaderLoader.cpp
+		MeshExample\ShaderLoader.h = MeshExample\ShaderLoader.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53018E2A-09C2-4E5E-A4ED-96399BE391C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53018E2A-09C2-4E5E-A4ED-96399BE391C2}.Debug|Win32.Build.0 = Debug|Win32
+		{53018E2A-09C2-4E5E-A4ED-96399BE391C2}.Release|Win32.ActiveCfg = Release|Win32
+		{53018E2A-09C2-4E5E-A4ED-96399BE391C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

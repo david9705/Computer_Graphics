@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\desktop\0413354 (2)\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\0413354 (2)\meshexample\main.cpp(443): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\0413354 (2)\meshexample\main.cpp(735): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\0413354 (2)\meshexample\main.cpp(644): warning C4101: 'scene': 未參考的區域變數
+  MeshExample.vcxproj -> C:\Users\USER\Desktop\0413354 (2)\Debug\MeshExample.exe
+  MeshExample.vcxproj -> C:\Users\USER\Desktop\0413354 (2)\Debug\MeshExample.pdb (Full PDB)
