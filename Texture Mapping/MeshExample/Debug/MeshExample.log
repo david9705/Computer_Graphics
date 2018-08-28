@@ -1,0 +1,51 @@
+﻿  mesh.cpp
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(74): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(80): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(86): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(91): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(100): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(187): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(191): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(200): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(209): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(218): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(233): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(239): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(245): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(251): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\計圖\texture mapping\meshexample\mesh.cpp(257): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+  main.cpp
+c:\users\user\desktop\計圖\texture mapping\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\計圖\texture mapping\meshexample\main.cpp(395): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計圖\texture mapping\meshexample\main.cpp(694): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計圖\texture mapping\meshexample\main.cpp(603): warning C4101: 'scene': 未參考的區域變數
+  正在產生程式碼...
+  MeshExample.vcxproj -> C:\Users\USER\Desktop\計圖\Texture Mapping\Debug\MeshExample.exe
+  MeshExample.vcxproj -> C:\Users\USER\Desktop\計圖\Texture Mapping\Debug\MeshExample.pdb (Full PDB)
